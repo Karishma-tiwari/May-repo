@@ -1,3 +1,2 @@
 Jenkins is an open-source automation server primarily used to implement CI/CD (Continuous Integration and Continuous Delivery) pipelines. It allows developers to automatically build, test, and deploy software code changes, enabling faster development cycles, early error detection, and streamlined DevOps workflows
 Jenkins is one of the most widely used CI/CD tools because of its flexibility and scalability. Continuous Integration (CI): Automates the merging of code changes, ensuring developers work with an up-to-date codebase.
-Hello Everyone
